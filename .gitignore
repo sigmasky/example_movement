@@ -47,3 +47,4 @@ bin/playground1_debug.pdb
 *.pdb
 *.rc
 *.sln
+bin/playground1.exp
